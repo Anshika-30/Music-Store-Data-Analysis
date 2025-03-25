@@ -22,7 +22,7 @@ To run this project on your machine you need to install any SQL-supported DBMS t
 
 ## Questions Answered
 
-The following are a few of the questions that are answered in the project (check out <a href="https://github.com/avishek09/Music-Store-Analysis/blob/main/analysis.sql">analysis.sql</a> file for the rest):
+The following are a few of the questions that are answered in the project (check out <a href="https://github.com/Anshika-30/Music-Store-Data-Analysis/blob/main/analysis.sql">analysis.sql</a> file for the rest):
 
 * What are the most popular genres of music?
 * What are the most popular artists?
@@ -44,8 +44,3 @@ The results of the project are as follows:
 
 The project was successful in answering the set of questions about the store's business performance. The results of the project can be used by the store to make decisions about its marketing and product offerings.
 
-
-The project was successful in answering the set of questions about the store's business performance. The results of the project can be used by the store to make decisions about its marketing and product offerings.
-
-
-I hope this is helpful! -->
